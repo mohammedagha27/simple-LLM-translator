@@ -1,7 +1,9 @@
 # simple-LLM-translator
 ## execute this file:
 
+```bash
 python serve.py
+```
 
 you should see your chain being served at http://localhost:8000.
 
